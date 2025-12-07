@@ -1,0 +1,72 @@
+{
+  "version": 1,
+  "base_track": "おジャ魔女カーニバル!!",
+  "base_artist": "MAHO堂",
+  "createdAt": "2025-12-07T11:29:04.128051Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "おジャ魔女カーニバル!!",
+      "artist": "MAHO堂",
+      "has_synced": true,
+      "path": "select/01_おジャ魔女カーニバル!!_MAHO堂.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "おジャ魔女カーニバル!!",
+      "artist": "茜屋日海夏",
+      "has_synced": true,
+      "path": "select/02_おジャ魔女カーニバル!!_茜屋日海夏.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "おジャ魔女カーニバル!!",
+      "artist": "茜屋 日海夏",
+      "has_synced": true,
+      "path": "select/03_おジャ魔女カーニバル!!_茜屋_日海夏.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "おジャ魔女カーニバル!!",
+      "artist": "Yun*chi",
+      "has_synced": true,
+      "path": "select/04_おジャ魔女カーニバル!!_Yun_chi.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "おジャ魔女カーニバル!!",
+      "artist": "Various Artists",
+      "has_synced": true,
+      "path": "select/05_おジャ魔女カーニバル!!_Various_Artists.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "おジャ魔女カーニバル!!",
+      "artist": "茜屋日海夏, 若井友希, 久保田未夢",
+      "has_synced": true,
+      "path": "select/06_おジャ魔女カーニバル!!_茜屋日海夏,_若井友希,_久保田未夢.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "おジャ魔女カーニバル!!",
+      "artist": "まらしぃ",
+      "has_synced": true,
+      "path": "select/07_おジャ魔女カーニバル!!_まらしぃ.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "おジャ魔女カーニバル!!",
+      "artist": "MAHO堂",
+      "has_synced": false,
+      "path": "select/pl_01_おジャ魔女カーニバル!!_MAHO堂.txt"
+    }
+  ]
+}
